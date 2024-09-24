@@ -1,1 +1,1 @@
-# CSE360_helloworld
+# this repository  is to serve as CSE 360 tutorial
