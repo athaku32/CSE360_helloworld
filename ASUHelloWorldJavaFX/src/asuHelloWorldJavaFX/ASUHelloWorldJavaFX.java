@@ -18,7 +18,7 @@ public class ASUHelloWorldJavaFX extends Application {
     	System.out.println("It started!");
         primaryStage.setTitle("In class GitHub activity");
         Button btn = new Button();
-        btn.setText("Arshit's second commit");
+        btn.setText("Arshit's second Committ");
         btn.setOnAction(new EventHandler<>() {
             public void handle(ActionEvent event) {
                 System.out.println("ASU: Hello World!");
